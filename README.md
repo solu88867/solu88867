@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm solu88867
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solu88867&layout=compact)
 
 - 🔭 I'm a graduate **majoring in Mold Design and Manufacturing** .  
 - 🌱 Currently deepening my skills in **industrial robot programming** and **CNC multi-axis machining**.  
