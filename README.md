@@ -24,6 +24,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solu88867&layout=compact)
 
+![My 3D Contribution Graph](./profile-3d-contrib/profile-green.svg)
+
 ---
 
 ## ✨ Visitor Counter
